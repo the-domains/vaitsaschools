@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[VaitsaSchools]]></title>
         <description><![CDATA[VaitsaSchools]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vaitsaschools/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 21:29:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 21:43:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vaitsaschools/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9d427bf-74cf-478f-be10-455a1ceff768.jpg">]]></description>
+            <link>https://thegrid.ai/vaitsaschools/91c4393b-24fb-466f-884a-84fc70fe5ff0/index.html</link>
+            <guid isPermaLink="false">91c4393b-24fb-466f-884a-84fc70fe5ff0</guid>
+            <pubDate>Thu, 23 Jun 2016 21:43:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ΚΥΚΛΟΙ ΣΠΟΥΔΩΝ]]></title>
             <description><![CDATA[<article><h1>ΚΥΚΛΟΙ ΣΠΟΥΔΩΝ</h1><p>Οι κύκλοι σπουδών στα σχολεία μας είναι σχεδιασμένοι έτσι ώστε να παρέχονται οι απαραίτητες γνώσεις αλλά και να είναι δυνατή η προσαρμογή των ετών σπουδών ανάλογα με την ηλικία των μαθητών.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f266e6-f02d-444b-b36e-4850b0b06f52.jpg"></article>]]></description>
