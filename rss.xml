@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VaitsaSchools]]></title>
-        <description><![CDATA[VaitsaSchools]]></description>
+        <title><![CDATA[Vaitsa &nbsp;Schools]]></title>
+        <description><![CDATA[Vaitsa &nbsp;Schools]]></description>
         <link>https://thegrid.ai/vaitsaschools/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 21:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 07:30:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vaitsaschools/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdf6c40e-6d08-44df-a6f5-8caf8b130b2f.jpg">]]></description>
+            <link>https://thegrid.ai/vaitsaschools/876394cd-31f0-493f-90f5-d848051bde97/index.html</link>
+            <guid isPermaLink="false">876394cd-31f0-493f-90f5-d848051bde97</guid>
+            <pubDate>Thu, 23 Jun 2016 21:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cfbdc0-10fa-4da1-a078-e0d09f67f81c.jpg">]]></description>
+            <link>https://thegrid.ai/vaitsaschools/fbbec972-0d6d-49ed-9290-8712d1641702/index.html</link>
+            <guid isPermaLink="false">fbbec972-0d6d-49ed-9290-8712d1641702</guid>
+            <pubDate>Thu, 23 Jun 2016 21:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3750aa10-5327-4373-a26c-231fddb4532e.jpg">]]></description>
+            <link>https://thegrid.ai/vaitsaschools/694c4880-5f10-4c6c-befc-6b8b43fb8f2b/index.html</link>
+            <guid isPermaLink="false">694c4880-5f10-4c6c-befc-6b8b43fb8f2b</guid>
+            <pubDate>Thu, 23 Jun 2016 21:45:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb2a1e0e-1ea8-4e87-a81b-64d6644f156d.png">]]></description>
@@ -47,27 +68,6 @@
             <link>https://thegrid.ai/vaitsaschools/7731a001-228d-4a4a-aa0c-65c9e10b3aea/index.html</link>
             <guid isPermaLink="false">7731a001-228d-4a4a-aa0c-65c9e10b3aea</guid>
             <pubDate>Thu, 23 Jun 2016 21:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c79f1a2-68c1-4387-9010-dc6f99cb787e.jpg">]]></description>
-            <link>https://thegrid.ai/vaitsaschools/9dca3860-d860-4bfb-8de2-995e22ba8bc5/index.html</link>
-            <guid isPermaLink="false">9dca3860-d860-4bfb-8de2-995e22ba8bc5</guid>
-            <pubDate>Thu, 23 Jun 2016 21:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9d427bf-74cf-478f-be10-455a1ceff768.jpg">]]></description>
-            <link>https://thegrid.ai/vaitsaschools/91c4393b-24fb-466f-884a-84fc70fe5ff0/index.html</link>
-            <guid isPermaLink="false">91c4393b-24fb-466f-884a-84fc70fe5ff0</guid>
-            <pubDate>Thu, 23 Jun 2016 21:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ΚΥΚΛΟΙ ΣΠΟΥΔΩΝ]]></title>
-            <description><![CDATA[<article><h1>ΚΥΚΛΟΙ ΣΠΟΥΔΩΝ</h1><p>Οι κύκλοι σπουδών στα σχολεία μας είναι σχεδιασμένοι έτσι ώστε να παρέχονται οι απαραίτητες γνώσεις αλλά και να είναι δυνατή η προσαρμογή των ετών σπουδών ανάλογα με την ηλικία των μαθητών.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f266e6-f02d-444b-b36e-4850b0b06f52.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f266e6-f02d-444b-b36e-4850b0b06f52.jpg</link>
-            <guid isPermaLink="false">7d6a3089-2f18-4209-a3c1-48d9d95ae23b</guid>
-            <pubDate>Thu, 23 Jun 2016 21:29:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
