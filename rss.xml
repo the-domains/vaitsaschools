@@ -4,8 +4,15 @@
         <description><![CDATA[Vaitsa &nbsp;Schools]]></description>
         <link>https://thegrid.ai/vaitsaschools/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 17:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 17:36:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vaitsaschools/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d602773-2dad-4286-bda1-c041b48b7083.jpg">]]></description>
+            <link>https://thegrid.ai/vaitsaschools/d3728a4d-1ade-4310-b3a5-e74649c6292c/index.html</link>
+            <guid isPermaLink="false">d3728a4d-1ade-4310-b3a5-e74649c6292c</guid>
+            <pubDate>Sat, 16 Jul 2016 17:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Offers]]></title>
             <description><![CDATA[<article><h1>Offers</h1><h2>Ειδικά για τους άνεργους και τους φοιτητές ΑΕΙ και ΤΕΙ τμήματα Β2 (lower), C1 (advanced) & C2 (proficiency) με 99 Ευρώ το μήνα!!!</h2><p>Τμήματα ενηλίκων σε όλες τις γλώσσες από 60 Ευρώ</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f985df3-169b-48ba-82d9-5e44c69bd66a.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/vaitsaschools/91c4393b-24fb-466f-884a-84fc70fe5ff0/index.html</link>
             <guid isPermaLink="false">91c4393b-24fb-466f-884a-84fc70fe5ff0</guid>
             <pubDate>Sat, 25 Jun 2016 07:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d602773-2dad-4286-bda1-c041b48b7083.jpg">]]></description>
-            <link>https://thegrid.ai/vaitsaschools/d3728a4d-1ade-4310-b3a5-e74649c6292c/index.html</link>
-            <guid isPermaLink="false">d3728a4d-1ade-4310-b3a5-e74649c6292c</guid>
-            <pubDate>Thu, 23 Jun 2016 21:44:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
