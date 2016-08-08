@@ -1,15 +1,15 @@
-typography_spectrum: 0.011315431911498308
+typography_spectrum: 0.22100823698565364
 color:
-  brandStrength: 0.9529710016213357
-  lightness: 0.8205869982484728
-  saturation: 0.17352254875004292
-  rhythmicContrast: 0.5694168463815004
+  brandStrength: 0.8667519798036665
+  lightness: 0.5770401011686772
+  saturation: 0.023864030139520764
+  rhythmicContrast: 0.16502217925153673
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
 opengraph:
   type: page
   appId: Vaitsa Schools
@@ -19,3 +19,5 @@ logo: >-
 name: Vaitsa &nbsp;Schools for Languages
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4068f455-926f-4d36-9ce2-66fa13c6aca1.jpg
+coverPrefs:
+  filter: false
