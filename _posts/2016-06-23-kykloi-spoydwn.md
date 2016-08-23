@@ -3,17 +3,16 @@ description: >-
   Οι κύκλοι σπουδών στα σχολεία μας είναι σχεδιασμένοι έτσι ώστε να παρέχονται
   οι απαραίτητες γνώσεις αλλά και να είναι δυνατή η προσαρμογή των ετών σπουδών
   ανάλογα με την ηλικία των μαθητών.
-dateModified: '2016-06-23T21:28:59.938Z'
-datePublished: '2016-06-23T21:29:21.050Z'
+dateModified: '2016-08-23T16:53:11.215Z'
+datePublished: '2016-08-23T16:53:13.608Z'
 title: ΚΥΚΛΟΙ ΣΠΟΥΔΩΝ
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f266e6-f02d-444b-b36e-4850b0b06f52.jpg
-starred: false
 sourcePath: _posts/2016-06-23-kykloi-spoydwn.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: kykloi-spoydwn/index.html
 _type: MediaObject
 
 ---
