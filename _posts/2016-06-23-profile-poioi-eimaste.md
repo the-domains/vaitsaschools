@@ -9,16 +9,17 @@ description: >-
   η φροντίδα για τον κάθε μαθητή ξεχωριστά και η τακτική επικοινωνία με τους
   γονείς αποτελούσαν και αποτελούν ακόμα τα κύρια χαρακτηριστικά του σχολείου
   μας.
-dateModified: '2016-07-02T08:22:26.546Z'
-datePublished: '2016-08-23T16:55:44.636Z'
+dateModified: '2016-08-23T16:56:39.207Z'
+datePublished: '2016-08-23T16:56:44.831Z'
 title: PROFILE – Ποιοι είμαστε
 author: []
 sourcePath: _posts/2016-06-23-profile-poioi-eimaste.md
+publisher: {}
+via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: profile-poioi-eimaste/index.html
+_type: Blurb
 
 ---
 # PROFILE -- Ποιοι είμαστε
