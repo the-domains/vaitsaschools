@@ -24,9 +24,6 @@ navigation:
   - name: Φιλοσοφία Εκπαίδευσης
     id: 93c2cd5a-fae5-465a-a122-7c7ae19bb3e5
     type: content
-  - name: 'Πρόσβαση '
-    id: e18b5990-7656-4c46-9caa-80521bb9b5f0
-    type: content
   - name: ΠΤΥΧΙΑ
     id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
     type: content
