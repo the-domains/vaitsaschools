@@ -21,14 +21,14 @@ navigation:
   - name: Καλώς ήρθατε στα Vaitsa Schools
     id: 82420862-0139-4303-9dcb-749a2218cd42
     type: content
+  - name: PROFILE – Ποιοι είμαστε
+    id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
+    type: content
   - name: Φιλοσοφία Εκπαίδευσης
     id: 93c2cd5a-fae5-465a-a122-7c7ae19bb3e5
     type: content
   - name: 'Πρόσβαση '
     id: e18b5990-7656-4c46-9caa-80521bb9b5f0
-    type: content
-  - name: PROFILE – Ποιοι είμαστε
-    id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
     type: content
   - name: Κύκλοι Σπουδών
     id: 7d6a3089-2f18-4209-a3c1-48d9d95ae23b
