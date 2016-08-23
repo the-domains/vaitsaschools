@@ -30,11 +30,11 @@ navigation:
   - name: Κύκλοι Σπουδών
     id: 7d6a3089-2f18-4209-a3c1-48d9d95ae23b
     type: content
-  - name: ΠΤΥΧΙΑ
-    id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
-    type: content
   - name: Προσφορές
     id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
+    type: content
+  - name: ΠΤΥΧΙΑ
+    id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
