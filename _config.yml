@@ -39,6 +39,9 @@ navigation:
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
     type: content
+  - name: PROFILE – Ποιοι είμαστε
+    id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4068f455-926f-4d36-9ce2-66fa13c6aca1.jpg
 title: 'Μιλήστε τη γλώσσα της επιτυχίας   '
