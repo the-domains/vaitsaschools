@@ -7,17 +7,16 @@ description: >-
   σχολείων μας, οι καταρτισμένοι καθηγητές και τα ολιγομελή τμήματα είναι τα
   πλεονεκτήματα μας.Προσφέρουμε μαθήματα Αγγλικών , Γαλλικών, Γερμανικών,
   Ιταλικών, Ισπανικών για μαθητές και ενήλικες
-dateModified: '2016-07-02T08:22:20.114Z'
-datePublished: '2016-07-16T17:36:50.138Z'
+dateModified: '2016-08-23T16:51:39.519Z'
+datePublished: '2016-08-23T16:51:43.465Z'
 title: Καλώς ήρθατε στα Vaitsa Schools
 author: []
 sourcePath: _posts/2016-06-23-kalws-hr8ate-sta-vaitsa-schools.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: kalws-hr8ate-sta-vaitsa-schools/index.html
 _type: MediaObject
 
 ---
