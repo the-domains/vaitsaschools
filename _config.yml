@@ -18,9 +18,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
 name: Vaitsa &nbsp;Schools for Languages
 navigation:
-  - name: Καλώς ήρθατε στα Vaitsa Schools
-    id: 82420862-0139-4303-9dcb-749a2218cd42
-    type: content
   - name: PROFILE – Ποιοι είμαστε
     id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
     type: content
