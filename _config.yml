@@ -27,9 +27,6 @@ navigation:
   - name: 'Πρόσβαση '
     id: e18b5990-7656-4c46-9caa-80521bb9b5f0
     type: content
-  - name: Κύκλοι Σπουδών
-    id: 7d6a3089-2f18-4209-a3c1-48d9d95ae23b
-    type: content
   - name: Προσφορές
     id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
     type: content
