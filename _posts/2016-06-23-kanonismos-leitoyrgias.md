@@ -1,15 +1,16 @@
 ---
 description: 'Η Διεύθυνση:'
-dateModified: '2016-06-21T23:34:16.330Z'
-datePublished: '2016-06-23T21:42:52.902Z'
+dateModified: '2016-08-23T16:52:39.204Z'
+datePublished: '2016-08-23T16:52:40.711Z'
 title: 'Κανονισμός λειτουργίας '
 author: []
-starred: false
 sourcePath: _posts/2016-06-23-kanonismos-leitoyrgias.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: kanonismos-leitoyrgias/index.html
+_type: Blurb
 
 ---
 # Κανονισμός λειτουργίας 
