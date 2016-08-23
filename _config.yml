@@ -17,6 +17,10 @@ layout_spectrum: 0.3344913574401289
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
 name: Vaitsa &nbsp;Schools for Languages
+navigation:
+  - name: ΠΤΥΧΙΑ
+    id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4068f455-926f-4d36-9ce2-66fa13c6aca1.jpg
 title: 'Μιλήστε τη γλώσσα της επιτυχίας   '
