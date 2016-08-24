@@ -1,4 +1,3 @@
-layout_spectrum: 0.1834769246634096
 typography_spectrum: 0.4304841021075845
 color:
   brandStrength: 0.8667519798036665
@@ -11,11 +10,10 @@ color:
     - '#F7E967'
     - '#A9CF54'
     - '#588F27'
-coverPrefs:
-  filter: false
 opengraph:
   type: page
   appId: Vaitsa Schools
+layout_spectrum: 0.1834769246634096
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
 name: Vaitsa &nbsp;Schools for Languages
@@ -35,4 +33,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4068f455-926f-4d36-9ce2-66fa13c6aca1.jpg
 title: 'Μιλήστε τη γλώσσα της επιτυχίας   '
+coverPrefs:
+  filter: false
 description: Ξένες γλώσσες για μαθητές και ενήλικες
