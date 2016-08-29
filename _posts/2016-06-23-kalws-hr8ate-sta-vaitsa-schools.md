@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-28T08:23:11.999Z'
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg
+author: []
+via: {}
+dateModified: '2016-08-28T08:23:11.288Z'
+title: Καλώς ήρθατε στα Vaitsa Schools
+id: 82420862-0139-4303-9dcb-749a2218cd42
+publisher: {}
 description: >-
   Η φιλοσοφία μας για την εκπαίδευση έχει πολλές πτυχές, αλλά θα μπορούσαμε να
   πούμε ότι η βασική μας φροντίδα η πρόοδος του κάθε μαθητή μας, ενήλικα ή
@@ -7,16 +16,11 @@ description: >-
   σχολείων μας, οι καταρτισμένοι καθηγητές και τα ολιγομελή τμήματα είναι τα
   πλεονεκτήματα μας.Προσφέρουμε μαθήματα Αγγλικών , Γαλλικών, Γερμανικών,
   Ιταλικών, Ισπανικών για μαθητές και ενήλικες
-dateModified: '2016-08-23T16:51:39.519Z'
-datePublished: '2016-08-23T16:51:43.465Z'
-title: Καλώς ήρθατε στα Vaitsa Schools
-author: []
-sourcePath: _posts/2016-06-23-kalws-hr8ate-sta-vaitsa-schools.md
-hasPage: true
-publisher: {}
-via: {}
 starred: false
-url: kalws-hr8ate-sta-vaitsa-schools/index.html
+sourcePath: _posts/2016-06-23-kalws-hr8ate-sta-vaitsa-schools.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
