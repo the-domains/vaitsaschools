@@ -14,6 +14,9 @@ opengraph:
   type: page
   appId: Vaitsa Schools
 layout_spectrum: 0.1834769246634096
+author:
+  name: sotiris
+  email: sotiris.koutsomitros@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
 name: Vaitsa Schools for Languages
