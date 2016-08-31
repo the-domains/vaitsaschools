@@ -1,12 +1,14 @@
 ---
+datePublished: '2016-08-29T19:12:14.387Z'
+sourcePath: _posts/2016-06-23-prosferoyme.md
+author: []
+via: {}
+dateModified: '2016-08-29T19:12:14.178Z'
+title: ΠΡΟΣΦΕΡΟΥΜΕ
+publisher: {}
 description: >-
   τμήματα μαθητών και ενηλίκων στις πιο δημοφιλείς ξένες γλώσσες ΑΓΓΛΙΚΑ -
   ΓΑΛΛΙΚΑ - ΙΤΑΛΙΚΑ - ΙΣΠΑΝΙΚΑ - ΓΕΡΜΑΝΙΚΑ
-dateModified: '2016-07-02T08:23:06.668Z'
-datePublished: '2016-08-24T19:15:08.369Z'
-title: ΠΡΟΣΦΕΡΟΥΜΕ
-author: []
-sourcePath: _posts/2016-06-23-prosferoyme.md
 starred: false
 inFeed: true
 hasPage: false
@@ -14,6 +16,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c60ebe50-535e-41c0-9510-c0a52c3d2ec9.jpg)
+
 # ΠΡΟΣΦΕΡΟΥΜΕ
 
 τμήματα **μαθητών** και **ενηλίκων** στις πιο δημοφιλείς ξένες γλώσσες **ΑΓΓΛΙΚΑ - ΓΑΛΛΙΚΑ - ΙΤΑΛΙΚΑ - ΙΣΠΑΝΙΚΑ - ΓΕΡΜΑΝΙΚΑ**
