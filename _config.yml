@@ -27,14 +27,14 @@ navigation:
   - name: Φιλοσοφία Εκπαίδευσης
     id: 93c2cd5a-fae5-465a-a122-7c7ae19bb3e5
     type: content
+  - name: Προσφορές - Offers
+    id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
+    type: content
   - name: ΠΤΥΧΙΑ
     id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
-    type: content
-  - name: Προσφορές - Offers
-    id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4068f455-926f-4d36-9ce2-66fa13c6aca1.jpg
