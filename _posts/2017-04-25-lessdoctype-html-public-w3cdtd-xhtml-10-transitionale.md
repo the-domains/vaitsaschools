@@ -1,20 +1,20 @@
 ---
 inFeed: true
-description: >-
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-dateModified: '2017-04-25T22:20:29.442Z'
-datePublished: '2017-04-25T22:20:30.073Z'
+description: html
+dateModified: '2017-04-25T22:23:07.055Z'
+datePublished: '2017-04-25T22:23:08.304Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-25-lessdoctype-html-public-w3cdtd-xhtml-10-transitionale.md
 starred: false
 datePublishedOriginal: '2017-04-25T22:20:30.073Z'
-sourcePath: _posts/2017-04-25-lessdoctype-html-public-w3cdtd-xhtml-10-transitionale.md
 _type: Blurb
 
 ---
+html
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"\>
 
 <html xmlns="http://www.w3.org/1999/xhtml"\>
@@ -73,13 +73,13 @@ display:block; font-size:18px;
 
 text-shadow: 1px 1px 0px \#ffffff; -webkit-text-shadow: 1px 1px 0px \#ffffff; -ms-text-shadow: 1px 1px 0px \#ffffff;
 
-} 
+}
 
 \#password,\#username{
 
 font-size:16px; text-align:center; border:none; padding:10px; width:80%; border: 1px solid \#E4E4E4; display:block; margin:15px auto;
 
-} 
+}
 
 </style\>
 
@@ -101,15 +101,15 @@ font-size:16px; text-align:center; border:none; padding:10px; width:80%; border:
 
 <label for="password" \>Κωδικός ασφαλείας</label\>
 
-<input type="password" name="password" id="password" maxlength="100" /\> 
+<input type="password" name="password" id="password" maxlength="100" /\>
 
-<input type="submit" name="submit" value="Σύνδεση"/\> 
+<input type="submit" name="submit" value="Σύνδεση"/\>
 
 <br/\>
 
 <a href='https://www.edu4schools.gr/Account/ForgotPassword?ext=1'\>Ξέχασα τον κωδικό μου</a\>
 
-<input type="hidden" name="urlReferrer" value="" /\> 
+<input type="hidden" name="urlReferrer" value="" /\>
 
 </fieldset\>
 
