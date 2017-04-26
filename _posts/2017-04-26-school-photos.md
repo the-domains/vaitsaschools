@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: School Photos
-dateModified: '2017-04-26T13:08:49.773Z'
-datePublished: '2017-04-26T13:08:50.377Z'
+dateModified: '2017-04-26T13:40:55.315Z'
+datePublished: '2017-04-26T13:40:55.487Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-26-school-photos.md
 starred: false
 datePublishedOriginal: '2017-04-26T13:08:50.377Z'
-sourcePath: _posts/2017-04-26-school-photos.md
 url: school-photos/index.html
 _type: Article
 
