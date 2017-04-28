@@ -45,9 +45,6 @@ navigation:
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
     type: content
-  - name: Σύνδεση στο σχολείο μου
-    id: 8a074395-458f-407d-8b1f-9c4cbc0d0399
-    type: content
   - name: Portal
     url: 'https://portal.vaitsaschools.gr'
     type: external
