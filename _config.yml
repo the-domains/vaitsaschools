@@ -107,8 +107,8 @@ coverPrefs:
 description: Ξένες γλώσσες για μαθητές και ενήλικες
 purpose:
   - type: external
-    label: Σύνδεση στο ψηφιακό σχολείο
-    url: 'https://www.edu4schools.gr/Account'
+    label: 'https://portal.vaitsaschools.gr'
+    url: 'https://portal.vaitsaschools.gr'
   - type: contact
     url: 'mailto:info@vaitsa.gr'
     label: Contact me
