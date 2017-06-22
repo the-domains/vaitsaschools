@@ -2,8 +2,8 @@
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg
 title: Καλώς ήρθατε στα Vaitsa Schools
-datePublished: '2017-06-22T11:51:20.110Z'
-dateModified: '2017-06-22T11:51:18.689Z'
+datePublished: '2017-06-22T11:52:54.032Z'
+dateModified: '2017-06-22T11:52:52.670Z'
 publisher: {}
 author: []
 description: >-
@@ -44,7 +44,9 @@ Eκπαιδευτικό υλικό μόνο από τους καλύτερους
 
 Speaking clinics
 
-Ειδικά πτυχία για σπουδές και εργασία στο εξωτερικό IELTS -- TOEFL -- GMAT - TOEIC
+Τμήματα προετοιμασίεας για σπουδές και εργασία στο εξωτερικό με πτυχία IELTS -- TOEFL -- GMAT - TOEIC
+
+Τμήματα ενεργοποίησης γλώσσας για το εργασιακό περιβάλλον
 
 Σύγχρονες λειτουργικές κτιριακές εγκαταστάσεις
 
