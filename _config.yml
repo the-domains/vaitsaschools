@@ -63,5 +63,30 @@ navigation:
   - name: Portal
     url: 'http://portal.vaitsaschools.gr'
     type: external
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c734fa-d455-49eb-99d3-0014586f5e40.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c734fa-d455-49eb-99d3-0014586f5e40.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
