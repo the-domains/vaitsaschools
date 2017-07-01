@@ -1,31 +1,43 @@
+name: Vaitsa Schools for Languages
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d32dc6c-ddcb-4311-8143-755eea2aed9e.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
+layout_spectrum: 0.8920339327684539
 typography_spectrum: 0.5832638447580508
-content_rating:
-  adult: false
+analytics:
+  facebook: '1894375410842122'
+  google: UA-97991930-1
+opengraph:
+  type: page
+  appId: '@vaitsaschools.gr'
 color:
-  brandStrength: 0.5456438584106578
-  lightness: 0.6366382217423825
-  saturation: 0.5262489374863482
-  rhythmicContrast: 0.45900291410818844
   brandColors:
     - '#96CA2D'
     - '#B5E655'
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-github: true
-opengraph:
-  type: page
-  appId: '@vaitsaschools.gr'
-layout_spectrum: 0.8920339327684539
-analytics:
-  google: UA-97991930-1
-  facebook: '1894375410842122'
+  brandStrength: 0.5456438584106578
+  lightness: 0.6366382217423825
+  saturation: 0.5262489374863482
+  rhythmicContrast: 0.45900291410818844
+purpose:
+  - type: external
+    label: Σύνδεση στο ψηφιακό σχολείο
+    url: 'http://portal.vaitsaschools.eu'
+  - type: contact
+    label: Contact me
+    url: 'mailto:info@vaitsa.gr'
+title: 'Καλώς ήρθατε στα Vaitsa Schools '
+description: >-
+  Ξένες γλώσσες για μαθητές και ενήλικες. Φροντίζουμε τον κάθε μαθητή ξεχωριστά
+  μέσα στην ομάδα!
 author:
   name: sotiris
   email: sotiris.koutsomitros@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
-name: Vaitsa Schools for Languages
+content_rating:
+  adult: false
 navigation:
   - name: PROFILE – Ποιοι είμαστε
     id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
@@ -36,76 +48,20 @@ navigation:
   - name: Προσφορές - Offers
     id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
     type: content
+  - name: Επιτυχίες
+    id: 0a39936b-b20a-4a2a-8a5a-6b2816f4bcb7
+    type: content
   - name: ΠΤΥΧΙΑ
     id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
     type: content
-  - name: Επιτυχίες
-    id: 0a39936b-b20a-4a2a-8a5a-6b2816f4bcb7
+  - name: Οδηγίες για τις εξετάσεις Lower & Proficiency
+    id: 210dc499-aeb3-41a4-b048-7b2644cab8cd
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
     type: content
   - name: Portal
-    url: 'https://portal.vaitsaschools.gr'
+    url: 'http://portal.vaitsaschools.gr'
     type: external
-favicon: null
-title: 'Μιλήστε τη γλώσσα της επιτυχίας   '
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87f1db4c-3906-4dfe-968d-353d1820054d.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/87f1db4c-3906-4dfe-968d-353d1820054d.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e95fc690-4352-4f12-809e-edcc93948416.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e95fc690-4352-4f12-809e-edcc93948416.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
-description: Ξένες γλώσσες για μαθητές και ενήλικες
-purpose:
-  - type: external
-    label: Σύνδεση στο ψηφιακό σχολείο
-    url: 'https://portal.vaitsaschools.gr'
-  - type: contact
-    url: 'mailto:info@vaitsa.gr'
-    label: Contact me
+content: []
+github: true
