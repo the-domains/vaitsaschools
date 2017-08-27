@@ -1,8 +1,8 @@
 ---
 description: ''
 author: []
-datePublished: '2017-04-26T13:52:53.765Z'
-dateModified: '2017-04-26T13:52:53.525Z'
+datePublished: '2017-08-27T21:23:52.781Z'
+dateModified: '2017-08-27T21:23:51.833Z'
 title: 100% επιτυχία. Χωρίς άλλα λόγια…
 publisher: {}
 via: {}
@@ -14,5 +14,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# **100% επιτυχία. Χωρίς άλλα λόγια...**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7898f867-6157-4a6c-be5d-344637eebe2d.jpg)
