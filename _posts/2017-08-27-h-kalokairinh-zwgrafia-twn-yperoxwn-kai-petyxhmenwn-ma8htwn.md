@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Η καλοκαιρινή ζωγραφιά των υπέροχων και πετυχημένων μαθητών μας!!
-dateModified: '2017-08-27T21:21:06.315Z'
-datePublished: '2017-08-27T21:21:09.239Z'
+dateModified: '2017-08-27T21:23:51.833Z'
+datePublished: '2017-08-27T21:23:52.824Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-08-27T21:21:09.239Z'
 sourcePath: >-
   _posts/2017-08-27-h-kalokairinh-zwgrafia-twn-yperoxwn-kai-petyxhmenwn-ma8htwn.md
+starred: false
+datePublishedOriginal: '2017-08-27T21:21:09.239Z'
 _type: Blurb
 
 ---
