@@ -2,8 +2,8 @@
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg
 title: Καλώς ήρθατε στα Vaitsa Schools
-datePublished: '2017-08-27T21:56:29.269Z'
-dateModified: '2017-08-27T21:56:28.507Z'
+datePublished: '2017-08-28T12:45:18.589Z'
+dateModified: '2017-08-28T12:45:17.729Z'
 publisher: {}
 author: []
 description: >-
@@ -49,6 +49,7 @@ Speaking clinics
 Τμήματα ενεργοποίησης γλώσσας για το εργασιακό περιβάλλον
 
 Σύγχρονες λειτουργικές κτιριακές εγκαταστάσεις
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e1e6bca-fcf9-41d4-8925-2c65a92c3f41.jpg)
 
 Ειδικές εκπτώσεις σε μέλη της ίδιας οικογένειας, φοιτητές και άνεργους
 
