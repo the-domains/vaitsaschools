@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ανοίξαμε και σας περιμένουμε! Kάθε απόγευμα από τις 6 μέχρι τις 9, για αυτή
   την εβδομάδα.
-dateModified: '2017-08-29T12:44:51.317Z'
-datePublished: '2017-08-29T12:44:55.513Z'
+dateModified: '2017-08-30T16:24:29.337Z'
+datePublished: '2017-08-30T16:24:31.454Z'
 title: ''
 author: []
 publisher: {}
