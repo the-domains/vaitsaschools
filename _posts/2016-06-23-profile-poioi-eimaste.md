@@ -1,6 +1,6 @@
 ---
 title: PROFILE – Ποιοι είμαστε
-dateModified: '2017-09-03T18:11:57.532Z'
+dateModified: '2017-09-03T18:17:40.952Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,7 +16,7 @@ description: >-
   γονείς αποτελούσαν και αποτελούν ακόμα τα κύρια χαρακτηριστικά του σχολείου
   μας.
 via: {}
-datePublished: '2017-09-03T18:11:58.126Z'
+datePublished: '2017-09-03T18:17:41.624Z'
 sourcePath: _posts/2016-06-23-profile-poioi-eimaste.md
 starred: false
 datePublishedOriginal: '2017-01-07T14:49:37.442Z'
