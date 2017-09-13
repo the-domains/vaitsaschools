@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ανοίξαμε και σας περιμένουμε για εγγραφές! Kάθε απόγευμα από τις 6 μέχρι τις
   9, για αυτή την εβδομάδα. 
-dateModified: '2017-09-13T10:54:39.151Z'
-datePublished: '2017-09-13T10:54:40.062Z'
+dateModified: '2017-09-13T10:56:02.375Z'
+datePublished: '2017-09-13T10:56:04.124Z'
 title: ''
 author: []
 publisher: {}
