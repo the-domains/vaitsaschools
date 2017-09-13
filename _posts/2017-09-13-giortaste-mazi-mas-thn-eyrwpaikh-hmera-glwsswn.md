@@ -1,15 +1,15 @@
 ---
 inFeed: true
-description: Γιορτάστε μαζί μας την Ευρωπαϊκή Ημέρα Γλωσσών!
-dateModified: '2017-09-13T10:48:19.973Z'
-datePublished: '2017-09-13T10:48:20.994Z'
+description: "Γιορτάστε μαζί μας την\_Ευρωπαϊκή Ημέρα Γλωσσών!"
+dateModified: '2017-09-13T10:51:10.727Z'
+datePublished: '2017-09-13T10:51:10.894Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-13-giortaste-mazi-mas-thn-eyrwpaikh-hmera-glwsswn.md
 starred: false
 datePublishedOriginal: '2017-09-13T10:48:20.994Z'
-sourcePath: _posts/2017-09-13-giortaste-mazi-mas-thn-eyrwpaikh-hmera-glwsswn.md
 _type: Blurb
 
 ---
