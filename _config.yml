@@ -33,6 +33,9 @@ navigation:
   - name: Προσφορές - Offers
     id: 7f4755e6-e0ed-452e-ab0e-1bf6c80925d3
     type: content
+  - name: Τμήματα Ενηλίκων
+    id: ed73a28b-4335-4884-98fe-67b05736449f
+    type: content
   - name: Επιτυχίες
     id: 0a39936b-b20a-4a2a-8a5a-6b2816f4bcb7
     type: content
@@ -51,9 +54,6 @@ navigation:
   - name: Portal
     url: 'http://portal.vaitsaschools.gr'
     type: external
-  - name: Τμήματα Ενηλίκων
-    id: ed73a28b-4335-4884-98fe-67b05736449f
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d32dc6c-ddcb-4311-8143-755eea2aed9e.jpg
 title: 'Καλώς ήρθατε στα Vaitsa Schools '
