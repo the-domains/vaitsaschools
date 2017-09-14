@@ -27,9 +27,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64c877b6-b91d-49eb-a130-b7a7ba64015c.jpg
 name: Vaitsa Schools for Languages
 navigation:
-  - name: PROFILE – Ποιοι είμαστε
-    id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
-    type: content
   - name: Φιλοσοφία Εκπαίδευσης
     id: 93c2cd5a-fae5-465a-a122-7c7ae19bb3e5
     type: content
@@ -44,6 +41,9 @@ navigation:
     type: content
   - name: Οδηγίες για τις εξετάσεις Lower & Proficiency
     id: 210dc499-aeb3-41a4-b048-7b2644cab8cd
+    type: content
+  - name: PROFILE – Ποιοι είμαστε
+    id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
