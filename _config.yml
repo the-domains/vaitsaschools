@@ -51,9 +51,6 @@ navigation:
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
     type: content
-  - name: Portal
-    url: 'http://portal.vaitsaschools.gr'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d32dc6c-ddcb-4311-8143-755eea2aed9e.jpg
 title: 'Καλώς ήρθατε στα Vaitsa Schools '
