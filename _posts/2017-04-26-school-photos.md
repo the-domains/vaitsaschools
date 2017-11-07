@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: School Photos
-dateModified: '2017-09-13T11:09:05.736Z'
-datePublished: '2017-09-13T11:09:06.606Z'
+dateModified: '2017-11-07T08:55:10.666Z'
+datePublished: '2017-11-07T08:55:11.523Z'
 title: ''
 author: []
 publisher: {}
