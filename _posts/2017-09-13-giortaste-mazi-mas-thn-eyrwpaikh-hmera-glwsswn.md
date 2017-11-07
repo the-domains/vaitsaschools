@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Γιορτάστε μαζί μας την Ευρωπαϊκή Ημέρα Γλωσσών!
-dateModified: '2017-11-07T08:51:21.870Z'
-datePublished: '2017-11-07T08:51:22.426Z'
+dateModified: '2017-11-07T08:54:08.446Z'
+datePublished: '2017-11-07T08:54:08.577Z'
 title: ''
 author: []
 publisher: {}
