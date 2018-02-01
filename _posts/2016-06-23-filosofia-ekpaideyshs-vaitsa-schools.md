@@ -6,8 +6,8 @@ description: >-
   διαδικασία, και στοχεύουμε στην ουσιαστική εκμάθηση της γλώσσας ως
   επικοινωνιακό εργαλείο. Η εμπειρία μας, η οργάνωση των σχολείων μας και τα
   ολιγομελή τμήματα είναι τα πλεονεκτήματα μας.
-dateModified: '2018-02-01T15:40:17.693Z'
-datePublished: '2018-02-01T15:40:18.650Z'
+dateModified: '2018-02-01T15:45:03.753Z'
+datePublished: '2018-02-01T15:45:04.437Z'
 title: Φιλοσοφία Εκπαίδευσης Vaitsa Schools
 author: []
 sourcePath: _posts/2016-06-23-filosofia-ekpaideyshs-vaitsa-schools.md
@@ -21,7 +21,7 @@ url: filosofia-ekpaideyshs-vaitsa-schools/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cb91e5c-09be-4168-9fc4-1c5eb1eb2174.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4e200ff-b086-4748-a8f4-9ebb723bea1e.jpg)
 
 # Φιλοσοφία Εκπαίδευσης Vaitsa Schools
 
