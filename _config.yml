@@ -39,14 +39,14 @@ navigation:
   - name: Ξένες Γλώσσες για Ενήλικες
     id: ed73a28b-4335-4884-98fe-67b05736449f
     type: content
+  - name: Που θα μας βρείτε?
+    id: 52468244-996e-4b7d-bc39-f05cb84c06e5
+    type: content
   - name: Επιτυχίες
     id: 0a39936b-b20a-4a2a-8a5a-6b2816f4bcb7
     type: content
   - name: ΠΤΥΧΙΑ Ξένων Γλωσσών
     id: 81d07acd-5b75-4de8-9a2e-e2ade6af2f27
-    type: content
-  - name: Που θα μας βρείτε?
-    id: 52468244-996e-4b7d-bc39-f05cb84c06e5
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
