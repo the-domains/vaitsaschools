@@ -88,9 +88,6 @@ description: >-
   πλεονεκτήματα μας. Μαθήματα Αγγλικών, Γαλλικών, Γερμανικών, Ιταλικών,
   Ισπανικών για μαθητές και ενήλικες.
 purpose:
-  - type: external
-    label: Σύνδεση στο ψηφιακό σχολείο
-    url: 'http://portal.vaitsaschools.eu'
   - type: contact
     label: Contact me
     url: 'mailto:info@vaitsa.gr'
