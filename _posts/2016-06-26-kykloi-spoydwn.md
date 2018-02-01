@@ -1,8 +1,8 @@
 ---
 id: 5cb6bbf5-7008-4623-bb43-9bf908949cea
-dateModified: '2018-02-01T14:58:05.504Z'
+dateModified: '2018-02-01T15:24:19.557Z'
 title: Κύκλοι Σπουδών
-datePublished: '2018-02-01T14:58:05.857Z'
+datePublished: '2018-02-01T15:24:20.315Z'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9997d008-e59a-4143-9838-f099768baae4.jpg
