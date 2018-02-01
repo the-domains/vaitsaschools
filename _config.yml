@@ -45,14 +45,14 @@ navigation:
   - name: Που θα μας βρείτε?
     id: 52468244-996e-4b7d-bc39-f05cb84c06e5
     type: content
-  - name: Οδηγίες για τις εξετάσεις Lower & Proficiency
-    id: 210dc499-aeb3-41a4-b048-7b2644cab8cd
-    type: content
   - name: PROFILE – Ποιοι είμαστε
     id: c4559889-e2ac-40a9-8458-8cf8e75d4f13
     type: content
   - name: 'Κανονισμός λειτουργίας '
     id: 6db5067c-14f8-49ae-8a3c-e472e8fb09cd
+    type: content
+  - name: Οδηγίες για τις εξετάσεις Lower & Proficiency
+    id: 210dc499-aeb3-41a4-b048-7b2644cab8cd
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d32dc6c-ddcb-4311-8143-755eea2aed9e.jpg
