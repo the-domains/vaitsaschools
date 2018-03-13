@@ -7,8 +7,8 @@ description: 'https://www.facebook.com/VaitsaSchools.gr/'
 title: Facebook page
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/VaitsaSchools.gr/'
-datePublished: '2017-11-07T08:55:11.521Z'
-dateModified: '2017-11-07T08:55:10.666Z'
+datePublished: '2018-03-13T21:34:03.027Z'
+dateModified: '2018-03-13T21:34:01.520Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-25-see-posts-photos-and-more-on-facebook.md
