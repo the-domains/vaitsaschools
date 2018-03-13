@@ -1,6 +1,5 @@
-typography_spectrum: 0.5832638447580508
-content_rating:
-  adult: false
+layout_spectrum: 0.010864695826785105
+typography_spectrum: 0.5897255011683902
 color:
   brandColors:
     - '#96CA2D'
@@ -8,15 +7,16 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  brandStrength: 0.5456438584106578
-  lightness: 0.6366382217423825
-  saturation: 0.5262489374863482
-  rhythmicContrast: 0.45900291410818844
+  brandStrength: 0.4381679117911966
+  lightness: 0.999699320250034
+  saturation: 0.9944126983058851
+  rhythmicContrast: 0.8601232783946365
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: page
   appId: '@vaitsaschools.gr'
-layout_spectrum: 0.8920339327684539
 analytics:
   facebook: '1309529282507698, 1894375410842122'
   google: UA-97991930-1
