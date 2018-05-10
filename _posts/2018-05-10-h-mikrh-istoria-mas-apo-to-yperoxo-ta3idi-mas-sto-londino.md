@@ -1,0 +1,19 @@
+---
+inFeed: true
+description: Η μικρή ιστορία μας από το υπέροχο ταξίδι μας στο Λονδίνο!
+dateModified: '2018-05-10T08:37:49.816Z'
+datePublished: '2018-05-10T08:37:50.482Z'
+title: ''
+author: []
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2018-05-10T08:37:50.482Z'
+sourcePath: _posts/2018-05-10-h-mikrh-istoria-mas-apo-to-yperoxo-ta3idi-mas-sto-londino.md
+_type: Blurb
+
+---
+Η μικρή ιστορία μας από το υπέροχο ταξίδι μας στο Λονδίνο!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/732fef7a-a26a-4b27-bc68-c8acbe7da9da.jpg)
+
+https://www.facebook.com/VaitsaSchools.gr/videos/10156284483979257/
