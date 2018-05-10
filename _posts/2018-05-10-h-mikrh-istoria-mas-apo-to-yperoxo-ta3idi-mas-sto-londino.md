@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Η μικρή ιστορία μας από το υπέροχο ταξίδι μας στο Λονδίνο!
-dateModified: '2018-05-10T08:37:49.816Z'
-datePublished: '2018-05-10T08:37:50.482Z'
+dateModified: '2018-05-10T09:34:22.183Z'
+datePublished: '2018-05-10T09:34:23.420Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-10-h-mikrh-istoria-mas-apo-to-yperoxo-ta3idi-mas-sto-londino.md
 starred: false
 datePublishedOriginal: '2018-05-10T08:37:50.482Z'
-sourcePath: _posts/2018-05-10-h-mikrh-istoria-mas-apo-to-yperoxo-ta3idi-mas-sto-londino.md
 _type: Blurb
 
 ---
