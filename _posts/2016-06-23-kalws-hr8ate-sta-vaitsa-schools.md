@@ -2,8 +2,8 @@
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c887806-d66f-4faa-95fa-ce3d552d5931.jpg
 title: Καλώς ήρθατε στα Vaitsa Schools
-datePublished: '2018-05-10T09:34:23.239Z'
-dateModified: '2018-05-10T09:34:22.183Z'
+datePublished: '2018-07-18T21:30:12.533Z'
+dateModified: '2018-07-18T21:30:10.391Z'
 publisher: {}
 author: []
 description: >-
