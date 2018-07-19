@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Η μικρή ιστορία μας από το υπέροχο ταξίδι μας στο Λονδίνο!
-dateModified: '2018-07-19T04:59:05.111Z'
-datePublished: '2018-07-19T04:59:06.183Z'
+dateModified: '2018-07-19T05:01:42.482Z'
+datePublished: '2018-07-19T05:01:43.385Z'
 title: ''
 author: []
 publisher: {}
@@ -16,4 +16,4 @@ _type: Blurb
 Η μικρή ιστορία μας από το υπέροχο ταξίδι μας στο Λονδίνο!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/732fef7a-a26a-4b27-bc68-c8acbe7da9da.jpg)
 
-https://www.facebook.com/VaitsaSchools.gr/videos/10156284483979257/
+Τον Απρίλιο του 2018 πήγαμε στο Λονδίνο για να γνωρίσουμε την κουλτούρα και τον πολιτισμό της Αγγλίας. Δείτε τη μικρή μας ιστορία. https://www.facebook.com/VaitsaSchools.gr/videos/10156284483979257/
