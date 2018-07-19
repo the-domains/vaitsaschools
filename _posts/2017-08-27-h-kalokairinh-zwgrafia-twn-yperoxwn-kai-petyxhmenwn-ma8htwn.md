@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Η καλοκαιρινή ζωγραφιά των υπέροχων και πετυχημένων μαθητών μας!!
-dateModified: '2018-05-10T09:34:22.183Z'
-datePublished: '2018-05-10T09:34:23.428Z'
+dateModified: '2018-07-19T04:59:05.111Z'
+datePublished: '2018-07-19T04:59:06.183Z'
 title: ''
 author: []
 publisher: {}
