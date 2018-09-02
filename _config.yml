@@ -82,6 +82,31 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25db4986-6548-4cfe-a91c-ac568ef7cbd8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/25db4986-6548-4cfe-a91c-ac568ef7cbd8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Φροντίζουμε τον κάθε μαθητή ξεχωριστά μέσα στην ομάδα!   Η εμπειρία μας, η
   οργάνωση, οι υπέροχοι καθηγητές και τα ολιγομελή τμήματα είναι τα
